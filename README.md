@@ -7,13 +7,13 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-# Installation
-*To be made soon*
-
 <details>
 <summary>Information</summary>
 <br>
     
+# Installation
+*To be made soon*
+
 # Usage
 1. Install rust (If you haven't)
     1. B. Get it from https://www.rust-lang.org/ or your package manager (rustup)
