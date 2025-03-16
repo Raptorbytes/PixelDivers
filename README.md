@@ -2,7 +2,7 @@
 *We are NOT affiliated with Arrowhead Studios and do ***NOT*** make ***ANY*** money off of this*
 
 ## Table of Contents
-- Installation(Dropdown menu)
+- Installation (Dropdown menu)
 - [Contributing](#contributing)
 - [License](#license)
 
