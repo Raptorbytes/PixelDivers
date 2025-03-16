@@ -10,6 +10,12 @@
 # Installation
 *To be made soon*
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 # Usage
 1. Install rust (If you haven't)
     1. B. Get it from https://www.rust-lang.org/ or your package manager (rustup)
