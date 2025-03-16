@@ -27,6 +27,9 @@ The galaxy is counting on you— are you ready to dive in?
 
 </details>
 
+# Online play
+
+
 # Contributing
 This project is mostly meant for me (PARADOXzss07) and my friend (LEMonLinux) but if you have a good (majorly good, in fact) idea or a major bug fix that we didn't catch, make a pull request!
 If you want to make changes to something about the game, also feel free to make a pull request.
