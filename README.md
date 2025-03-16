@@ -1,6 +1,11 @@
 # PixelDivers, a Helldivers pixel art fangame!
 *We are NOT affiliated with Arrowhead Studios and do ***NOT*** make ***ANY*** money off of this*
 
+PixelDivers is an adrenaline-pumping, top-down pixel art shooter that drops you into the heart of hostile, alien-infested worlds. As an elite soldier, you’ll dive into dangerous missions, battling hordes of vicious enemies while completing high-stakes objectives. Whether you're clearing a rogue facility, rescuing survivors, or securing vital resources, no mission is ever the same.
+Featuring real-time combat with 360-degree shooting, you'll have to think fast, shoot even faster, and manage resources in a chaotic environment. But beware— friendly fire is always on, so every bullet counts, and every move could make the difference between victory and disaster. Bring in stratagems for extra support—like airstrikes, supply drops, or turret placements— but only when it’s safe to pause the action.
+Play solo, lead an AI squad, or team up with friends in local or online co-op for even more intense, heart-pounding action. Each mission is procedurally generated, ensuring that every drop into the unknown is a fresh, challenging experience. And with upgradable weapons, armor, and abilities, you’ll constantly evolve, becoming a deadlier force with every mission completed.
+The galaxy is counting on you— are you ready to dive in?
+
 ## Table of Contents
 - Installation (Dropdown menu)
 - [Contributing](#contributing)
