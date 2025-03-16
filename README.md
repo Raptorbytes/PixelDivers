@@ -14,8 +14,8 @@
 # Installation
 1. Install rust (If you haven't)
     1. B. Get it from https://www.rust-lang.org/ or your package manager (rustup)
-2. `Git clone https://github.com/Raptorbytes/PixelDivers`
-3. Use cargo to build it (`cargo build --release`)
+2. ```Git clone https://github.com/Raptorbytes/PixelDivers```
+3. Use cargo to build it (```cargo build --release```)
 4. Move the final binary to a folder with the "Assets" folder inside and place where ever you want
 5. Do ./PixelDivers to run the game!
 
