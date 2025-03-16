@@ -28,7 +28,7 @@ The galaxy is counting on you— are you ready to dive in?
 </details>
 
 # Online play
-
+At the moment, PixelDivers has not deployed an online server and has not been given ssh co-op. We will add muliplayer with real people when AI and the rest of the game is smoothed out.
 
 # Contributing
 This project is mostly meant for me (PARADOXzss07) and my friend (LEMonLinux) but if you have a good (majorly good, in fact) idea or a major bug fix that we didn't catch, make a pull request!
