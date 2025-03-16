@@ -27,8 +27,9 @@ If you want to make changes to something about the game, also feel free to make 
 # License
 The project is under the MIT license.
 The license is as follows:
-    Copyright 2025 Raptorbytes LLC
 
+    Copyright 2025 Raptorbytes LLC
+    
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the   Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
