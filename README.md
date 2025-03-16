@@ -1,8 +1,8 @@
 # PixelDivers, a Helldivers pixel art fangame!
 *We are NOT affiliated with Arrowhead Studios and do ***NOT*** make ***ANY*** money off of this*
 
-## Table of Contents (Check dropdown for usage)
-- [Installation](#installation)
+## Table of Contents
+- Installation(Dropdown menu)
 - [Contributing](#contributing)
 - [License](#license)
 
