@@ -5,9 +5,10 @@
 - Installation (Dropdown menu)
 - [Contributing](#contributing)
 - [License](#license)
+- 
 
 <details>
-<summary>Information</summary>
+<summary>Installation</summary>
 <br>
     
 # Installation
