@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
