@@ -8,6 +8,7 @@ The galaxy is counting on you— are you ready to dive in?
 
 ## Table of Contents
 - Installation (Dropdown menu)
+- [Online play](#online-play)
 - [Contributing](#contributing)
 - [License](#license)
 
