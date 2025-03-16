@@ -11,11 +11,9 @@
 *To be made soon*
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Information</summary>
 <br>
-This is how you dropdown.
-</details>
-
+    
 # Usage
 1. Install rust (If you haven't)
     1. B. Get it from https://www.rust-lang.org/ or your package manager (rustup)
@@ -40,3 +38,5 @@ The license is as follows:
   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   I encourage you follow license rules (basically just give credit to Raptorbytes and keep the license the same) and we can all have fun!
+  
+</details>
