@@ -7,10 +7,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-#installation
+# Installation
 *To be made soon*
 
-#Usage
+# Usage
 1. Install rust (If you haven't)
 2. Get it from https://www.rust-lang.org/ or your package manager
 3. Git clone https://github.com/Raptorbytes/PixelDivers
@@ -18,11 +18,11 @@
 4. Move the final binary to a folder with the `game assets` folder inside and place where ever you want
 5. Do ./PixelDivers to run the game!
 
-#Contributing
+# Contributing
 This project is mostly meant for me (PARADOXzss07) and my friend (LEMonLinux) but if you have a good (majorly good, in fact) idea or a major bug fix that we didn't catch, make a pull request!
 If you want to make changes to something about the game, also feel free to make a pull request.
 
-#License
+# License
 The project is under the MIT license.
 The license is as follows:
     Copyright 2025 Raptorbytes LLC
