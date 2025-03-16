@@ -8,7 +8,7 @@
 
 
 <details>
-<summary># Installation</summary>
+<summary>Installation</summary>
 <br>
     
 # Installation
