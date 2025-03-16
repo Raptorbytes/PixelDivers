@@ -1,9 +1,8 @@
 # PixelDivers, a Helldivers pixel art fangame!
 *We are NOT affiliated with Arrowhead Studios and do ***NOT*** make ***ANY*** money off of this*
 
-## Table of Contents (Check dropdown)
+## Table of Contents (Check dropdown for usage)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -12,15 +11,14 @@
 <br>
     
 # Installation
-*To be made soon*
-
-# Usage
 1. Install rust (If you haven't)
     1. B. Get it from https://www.rust-lang.org/ or your package manager (rustup)
 2. `Git clone https://github.com/Raptorbytes/PixelDivers`
 3. Use cargo to build it (`cargo build --release`)
 4. Move the final binary to a folder with the "Assets" folder inside and place where ever you want
 5. Do ./PixelDivers to run the game!
+
+</details>
 
 # Contributing
 This project is mostly meant for me (PARADOXzss07) and my friend (LEMonLinux) but if you have a good (majorly good, in fact) idea or a major bug fix that we didn't catch, make a pull request!
@@ -39,4 +37,4 @@ The license is as follows:
 
   I encourage you follow license rules (basically just give credit to Raptorbytes and keep the license the same) and we can all have fun!
   
-</details>
+
