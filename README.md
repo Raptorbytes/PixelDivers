@@ -13,7 +13,7 @@ The galaxy is counting on you— are you ready to dive in?
 
 ## Table of Contents
 - Installation (Dropdown menu)
-- [Online play](#online-play)
+- [Online play | CURRENTLY NOT AVAILABLE](#online-play)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,7 +28,7 @@ The galaxy is counting on you— are you ready to dive in?
 2. ```Git clone https://github.com/Raptorbytes/PixelDivers```
 3. Use cargo to build it (```cargo build --release```)
 4. Move the final binary to a folder with the "Assets" folder inside and place where ever you want
-5. Do ./PixelDivers to run the game!
+5. Do `./PixelDivers` or run the exe to play the game!
 
 </details>
 
