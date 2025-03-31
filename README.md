@@ -6,6 +6,8 @@ Featuring real-time combat with 360-degree shooting, you'll have to think fast, 
 Play solo, lead an AI squad, or team up with friends in local or online co-op for even more intense, heart-pounding action. Each mission is procedurally generated, ensuring that every drop into the unknown is a fresh, challenging experience. And with upgradable weapons, armor, and abilities, you’ll constantly evolve, becoming a deadlier force with every mission completed.
 The galaxy is counting on you— are you ready to dive in?
 
+*Technically* The game is cross-platform, including Windows and MacOS, but I haven't compliled for them yet, so you won't be seeing a binary yet.
+
 # Plans
 * Add to some distro's repos and AUR
 * Finish prototype 1 in 2 months (EZ)
