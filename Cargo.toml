@@ -4,29 +4,32 @@ version = "0.1.0-alpha1"
 edition = "2021"
 
 [dependencies]
-#bevy_neosprite = "0.1.0-alpha.1" # Not known if needed
-#bevy_simple_camera_controller = "0.2.1" # Not known if needed
-#hotline-rs = "0.3.2" # Not known if needed
+alsa-sys = "0.3.1"
 bevy = "0.15.3" # Game engine
 bevy-persistent = "0.7.0" # Game engine persistent progress saves
-#bevy-progressbar = "0.8.0" # Create multi-section progressbars for game engine UI
-#bevy-ui-navigation = "0.33.1" # Easy implementation of UI navigation
 bevy_asset_loader = "0.22.0" # Game engine asset loader
-#bevy_global_input = "0.4.0" # Global mouse and keyboard input for game engine
 bevy_interact_2d = "0.9.0" # Plugin for game engine 2D mouse interactions
 bevy_mouse_tracking_plugin = "0.7.0" # Effortless mouse tracking for game engine
-#bevy_quickmenu = "0.2.0" # Simple nested menus for keys, gamepads, and pointers
 bevy_rand = "0.9.0" # Game engine RNG
 bevy_retro_camera = "1.1.0" # Scaled pixel-perfect camera for game engine
+ghx_proc_gen = "0.4.0" # Game engine 2D/3D procedural generation
+
+# Non-enabled just-in-case(TM) deps
+#bevy-progressbar = "0.8.0" # Create multi-section progressbars for game engine UI
+#bevy-ui-navigation = "0.33.1" # Easy implementation of UI navigation
+#bevy_global_input = "0.4.0" # Global mouse and keyboard input for game engine
+#bevy_neosprite = "0.1.0-alpha.1" # Not known if needed
+#bevy_quickmenu = "0.2.0" # Simple nested menus for keys, gamepads, and pointers
 #bevy_retrograde = "0.2.0" # 2D renderer and plugins for game engine [CURRENTLY CAUSING DEPENDENCY ISSUES!]
 #bevy_retrograde_audio = "0.2.0" # Audio service for game engine
 #bevy_retrograde_core = "0.2.0" # Core components of retrograde
 #bevy_retrograde_physics = "0.2.1" # Physics utils for game engine
 #bevy_retrograde_text = "0.2.0" # Retrograde text renderer
 #bevy_retrograde_ui = "0.2.0" # Game engine UI renderer
-#evy_spawn_fn = "0.3.0" # Easy spawning for game engine
+#bevy_simple_camera_controller = "0.2.1" # Not known if needed
 #bevy_tweening = "0.12.0" # Game engine asset animation
 #bevy_ui_pointer_capture_detector = "0.3.1" # Game engine plugin to detect when the mouse is over a UI element
-ghx_proc_gen = "0.4.0" # Game engine 2D/3D procedural generation
+#evy_spawn_fn = "0.3.0" # Easy spawning for game engine
+#hotline-rs = "0.3.2" # Not known if needed
 #some_bevy_tools = "0.2.4" # Collection of tools for game engine
 #syn = "1.0.69"
