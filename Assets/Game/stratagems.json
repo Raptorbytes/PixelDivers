@@ -1,0 +1,187 @@
+{
+    "Orbital Gatling Barrage": {
+      "combination": ["Down", "Left", "Right", "Up"],
+      "animation": "orbital_gatling_barrage.anim"
+    },
+    "Orbital Walking Barrage": {
+      "combination": ["Down", "Left", "Down", "Left"],
+      "animation": "orbital_walking_barrage.anim"
+    },
+    "Orbital 120MM HE Barrage": {
+      "combination": ["Down", "Left", "Down", "Up"],
+      "animation": "orbital_120mm_he_barrage.anim"
+    },
+    "Orbital 300MM HE Barrage": {
+      "combination": ["Down", "Left", "Down", "Right"],
+      "animation": "orbital_300mm_he_barrage.anim"
+    },
+    "Orbital Gas Strike": {
+      "combination": ["Down", "Left", "Right", "Left"],
+      "animation": "orbital_gas_strike.anim"
+    },
+    "Orbital EMS Strike": {
+      "combination": ["Down", "Right", "Right", "Up"],
+      "animation": "orbital_ems_strike.anim"
+    },
+    "Orbital Smoke Strike": {
+      "combination": ["Down", "Right", "Down", "Left"],
+      "animation": "orbital_smoke_strike.anim"
+    },
+    "Orbital Airburst Strike": {
+      "combination": ["Down", "Right", "Down", "Up"],
+      "animation": "orbital_airburst_strike.anim"
+    },
+    "Orbital Precision Strike": {
+      "combination": ["Down", "Right", "Down", "Right"],
+      "animation": "orbital_precision_strike.anim"
+    },
+    "Orbital Railcannon Strike": {
+      "combination": ["Down", "Right", "Up", "Right"],
+      "animation": "orbital_railcannon_strike.anim"
+    },
+    "Orbital Laser": {
+      "combination": ["Down", "Right", "Up", "Up"],
+      "animation": "orbital_laser.anim"
+    },
+    "Eagle Strafing Run": {
+      "combination": ["Up", "Down", "Left", "Left"],
+      "animation": "eagle_strafing_run.anim"
+    },
+    "Eagle Napalm Airstrike": {
+      "combination": ["Up", "Down", "Left", "Right"],
+      "animation": "eagle_napalm_airstrike.anim"
+    },
+    "Eagle 110MM Rocket Pods": {
+      "combination": ["Up", "Down", "Left", "Up"],
+      "animation": "eagle_110mm_rocket_pods.anim"
+    },
+    "Eagle Airstrike": {
+      "combination": ["Up", "Down", "Right", "Left"],
+      "animation": "eagle_airstrike.anim"
+    },
+    "Eagle Smoke Strike": {
+      "combination": ["Up", "Down", "Right", "Right"],
+      "animation": "eagle_smoke_strike.anim"
+    },
+    "Eagle Cluster Bomb": {
+      "combination": ["Up", "Down", "Right", "Up"],
+      "animation": "eagle_cluster_bomb.anim"
+    },
+    "Eagle 500KG Bomb": {
+      "combination": ["Up", "Down", "Right", "Down"],
+      "animation": "eagle_500kg_bomb.anim"
+    },
+    "Grenade Launcher": {
+      "combination": ["Right", "Left", "Down", "Right"],
+      "animation": "grenade_launcher.anim"
+    },
+    "Expendable Anti-Tank": {
+      "combination": ["Right", "Left", "Down", "Left"],
+      "animation": "expendable_anti_tank.anim"
+    },
+    "Recoilless Rifle": {
+      "combination": ["Right", "Left", "Down", "Up"],
+      "animation": "recoilless_rifle.anim"
+    },
+    "Spear": {
+      "combination": ["Right", "Left", "Down", "Down"],
+      "animation": "spear.anim"
+    },
+    "Railgun": {
+      "combination": ["Right", "Right", "Down", "Left"],
+      "animation": "railgun.anim"
+    },
+    "Anti-Materiel Rifle": {
+      "combination": ["Right", "Right", "Down", "Right"],
+      "animation": "anti_materiel_rifle.anim"
+    },
+    "Autocannon": {
+      "combination": ["Right", "Right", "Down", "Up"],
+      "animation": "autocannon.anim"
+    },
+    "Laser Cannon": {
+      "combination": ["Right", "Right", "Down", "Down"],
+      "animation": "laser_cannon.anim"
+    },
+    "Quasar Cannon": {
+      "combination": ["Right", "Right", "Right", "Up"],
+      "animation": "quasar_cannon.anim"
+    },
+    "Arc Thrower": {
+      "combination": ["Right", "Down", "Left", "Left"],
+      "animation": "arc_thrower.anim"
+    },
+    "Flamethrower": {
+      "combination": ["Right", "Down", "Left", "Right"],
+      "animation": "flamethrower.anim"
+    },
+    "Mortar Sentry": {
+      "combination": ["Left", "Right", "Down", "Left"],
+      "animation": "mortar_sentry.anim"
+    },
+    "EMS Mortar Sentry": {
+      "combination": ["Left", "Right", "Down", "Right"],
+      "animation": "ems_mortar_sentry.anim"
+    },
+    "Anti-Personnel Mine": {
+      "combination": ["Left", "Left", "Down", "Left"],
+      "animation": "anti_personnel_mine.anim"
+    },
+    "Incendiary Mines": {
+      "combination": ["Left", "Left", "Down", "Right"],
+      "animation": "incendiary_mines.anim"
+    },
+    "SOS Beacon": {
+      "combination": ["Up", "Up", "Down", "Left"],
+      "animation": "sos_beacon.anim"
+    },
+    "Resupply": {
+      "combination": ["Up", "Up", "Down", "Right"],
+      "animation": "resupply.anim"
+    },
+    "Patriot Exosuit": {
+      "combination": ["Up", "Up", "Right", "Left"],
+      "animation": "patriot_exosuit.anim"
+    },
+    "Machine Gun": {
+      "combination": ["Right", "Left", "Left", "Up"],
+      "animation": "machine_gun.anim"
+    },
+    "Stalwart": {
+      "combination": ["Right", "Left", "Left", "Right"],
+      "animation": "stalwart.anim"
+    },
+    "Heavy Machine Gun": {
+      "combination": ["Right", "Left", "Left", "Down"],
+      "animation": "heavy_machine_gun.anim"
+    },
+    "HMG Emplacement": {
+      "combination": ["Right", "Left", "Left", "Left"],
+      "animation": "hmg_emplacement.anim"
+    },
+    "Machine Gun Sentry": {
+      "combination": ["Left", "Down", "Right", "Left"],
+      "animation": "machine_gun_sentry.anim"
+    },
+    "Gatling Sentry": {
+      "combination": ["Left", "Down", "Right", "Right"],
+      "animation": "gatling_sentry.anim"
+    },
+    "Autocannon Sentry": {
+      "combination": ["Left", "Down", "Right", "Up"],
+      "animation": "autocannon_sentry.anim"
+    },
+    "Rocket Sentry": {
+      "combination": ["Left", "Down", "Right", "Down"],
+      "animation": "rocket_sentry.anim"
+    },
+    "Tesla Tower": {
+      "combination": ["Down", "Up", "Right", "Left"],
+      "animation": "tesla_tower.anim"
+    },
+    "Shield Generator": {
+      "combination": ["Down", "Up", "Right", "Right"],
+      "animation": "shield_generator.anim"
+    }
+  }
+  
